@@ -49,7 +49,7 @@ Dynamic visual reports
 📷 Dashboard Preview
 Full Dashboard :-
 
-[Dashboard](SS/full_dashboard.jpg)
+![Dashboard](SS/full_dashboard.jpg)
 
 Department Analysis :-
 
