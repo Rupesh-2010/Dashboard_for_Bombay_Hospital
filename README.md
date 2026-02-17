@@ -47,23 +47,26 @@ Interactive filters & slicers
 Dynamic visual reports
 
 📷 Dashboard Preview
-Full Dashboard
+Full Dashboard :-
 
-![Dashboard](ss/full dashboard.jpg)
+![Dashboard](ss/full_dashboard.jpg)
 
-Department Analysis
+Department Analysis :-
 
-![Department](ss/department chart.jpg)
+![Department](ss/department_chart.jpg)
 
-Tree Map / Patient Distribution
+Tree Map / Patient Distribution :-
 
-![TreeMap](ss/Tree cards.jpg)
+![TreeMap](ss/tree_map.jpg)
 
-Table View
+Table View:-
 
-![Table](ss/Table View.jpg)
+![Table](ss/table_view.jpg)
 
-Filters & Interactivity
+Filters & Interactivity:-
+
+![Filters](ss/filters.jpg)
+
 
 📈 Key Insights
 
