@@ -49,23 +49,23 @@ Dynamic visual reports
 📷 Dashboard Preview
 Full Dashboard :-
 
-[Dashboard](ss/full_dashboard.jpg)
+[Dashboard](SS/full_dashboard.jpg)
 
 Department Analysis :-
 
-![Department](ss/department_chart.jpg)
+![Department](SS/department_chart.jpg)
 
 Tree Map / Patient Distribution :-
 
-![TreeMap](ss/tree_map.jpg)
+![TreeMap](SS/tree_map.jpg)
 
 Table View:-
 
-![Table](ss/table_view.jpg)
+![Table](SS/table_view.jpg)
 
 Filters & Interactivity:-
 
-![Filters](ss/filters.jpg)
+![Filters](SS/filters.jpg)
 
 
 📈 Key Insights
