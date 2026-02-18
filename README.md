@@ -1,130 +1,128 @@
-🏥 Bombay Hospital Dashboard Analysis (Power BI Project)
-📖 Project Overview
+# 🏥 Bombay Hospital Dashboard Analysis (Power BI Project)
 
-This project presents an interactive Hospital Performance Dashboard developed using Power BI.
+---
+
+## 📖 Project Overview
+
+This project presents an interactive **Hospital Performance Dashboard** developed using **Microsoft Power BI**.  
 The objective of this analysis is to convert raw hospital operational data into meaningful insights that support better decision-making for hospital management.
 
-The dashboard helps administrators monitor patient flow, departmental workload, doctor utilization, and overall hospital performance in a simple visual format.
+The dashboard helps administrators monitor:
 
-🎯 Business Objective
+- Patient flow
+- Department workload
+- Doctor utilization
+- Overall hospital performance
 
-Hospitals handle large amounts of patient and operational data daily. Without proper analysis, management cannot efficiently allocate staff, plan resources, or identify performance gaps.
+All insights are presented through a clear and easy-to-understand visual dashboard.
+
+---
+
+## 🎯 Business Objective
+
+Hospitals handle large amounts of patient and operational data daily.  
+Without proper analysis, management cannot efficiently allocate staff, plan resources, or identify performance gaps.
 
 This project answers key business questions:
 
-Which department receives the highest number of patients?
+- Which department receives the highest number of patients?
+- What are peak admission periods?
+- Which doctors handle the most cases?
+- How is hospital workload distributed?
+- How can management improve operational efficiency?
 
-What are peak admission periods?
+---
 
-Which doctors handle the most cases?
+## 🛠 Tools & Technologies Used
 
-How is hospital workload distributed?
+- Power BI Desktop
+- Power Query (Data Cleaning & Transformation)
+- DAX (KPIs & Measures)
+- Excel Dataset
 
-How can management improve operational efficiency?
+---
 
-🛠 Tools & Technologies Used
+## 📊 Dashboard Features
 
-Power BI Desktop
+- Patient admission analysis
+- Department-wise performance tracking
+- Doctor workload distribution
+- KPI indicators
+- Interactive filters & slicers
+- Dynamic visual reports
 
-Power Query (Data Cleaning & Transformation)
+---
 
-DAX (KPIs & Measures)
+## 📷 Dashboard Preview
 
-Excel Dataset
-
-📊 Dashboard Features
-
-Patient admission analysis
-
-Department-wise performance tracking
-
-Doctor workload distribution
-
-KPI indicators
-
-Interactive filters & slicers
-
-Dynamic visual reports
-
-📷 Dashboard Preview
-Full Dashboard :-
-
+### 🏥 Full Dashboard
 ![Dashboard](SS/full_dashboard.jpg)
 
-Department Analysis :-
-
+### 🏬 Department Analysis
 ![Department](SS/department_chart.jpg)
 
-Tree Map / Patient Distribution :-
-
+### 🌳 Patient Distribution (Tree Map)
 ![TreeMap](SS/tree_map.jpg)
 
-Table View:-
-
+### 📋 Table View
 ![Table](SS/table_view.jpg)
 
-Filters & Interactivity:-
-
+### 🎛 Filters & Interactivity
 ![Filters](SS/filters.jpg)
 
+---
 
-📈 Key Insights
+## 📈 Key Insights
 
-Identified high-load hospital departments
+- Identified high-load hospital departments
+- Recognized peak patient admission times
+- Analyzed doctor case handling distribution
+- Observed treatment demand patterns
+- Supported better hospital resource planning
 
-Recognized peak patient admission times
+---
 
-Analyzed doctor case handling distribution
-
-Observed treatment demand patterns
-
-Supported better hospital resource planning
-
-📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset contains simulated hospital operational records including:
 
-Patient ID
+- Patient ID
+- Department
+- Doctor Name
+- Admission Details
+- Treatment Type
+- Billing Data
 
-Department
-
-Doctor Name
-
-Admission Details
-
-Treatment Type
-
-Billing Data
-
+**Note:**  
 This dataset is used strictly for educational and portfolio purposes.
 
-🚀 How to Use
+---
 
-Download the .pbix file from this repository
+## 🚀 How to Use
 
-Open using Microsoft Power BI Desktop
+1. Download the `.pbix` file from this repository
+2. Open using Microsoft Power BI Desktop
+3. Interact with filters and visuals
+4. Explore hospital performance metrics
 
-Interact with filters and visuals
+---
 
-💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
-Data Cleaning
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Insight Extraction
+- KPI Creation using DAX
 
-Data Visualization
+---
 
-Dashboard Design
+## 👨‍💻 Author
 
-Business Insight Extraction
-
-KPI Creation using DAX
-
-👨‍💻 Author
-
-Rupesh Desai
+**Rupesh Desai**  
 Aspiring Data Analyst
 
-Skills: SQL | Power BI | Excel | Python | Data Analysis
+**Skills:** SQL | Power BI | Excel | Python | Data Analysis
 
-📧 Email: rupeshdesaiwork@gmail.com
-
+📧 Email: rupeshdesaiwork@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/rupeshdesai2010/
